@@ -1,0 +1,93 @@
+.logo { 
+    height: 60px;
+    padding-right: 28px;
+}
+
+hr {
+    height: 20px;
+    margin-bottom: 8px;
+
+}
+
+.nav { 
+    background-color: #EBE5D9;
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+
+.nav li  a { 
+    color: black;
+}
+
+.navbar form{
+
+margin-left: 520px;
+width: 35%;
+}
+
+
+
+.navbar input { 
+   background-color: white;
+   border: 2px solid #1C1919;
+   color: white;
+    border-radius: 100px;
+    width: 500%;
+  
+}
+
+.navbar .arrow { 
+    height: 26px;
+    margin-left: 200px;
+}
+
+.jumbotron {
+    height: 600px;
+    margin-top: 16px;
+    background-image: url("images/shelf-mockup-modern-empty-roomdark-orange-wall 1.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.jumbotron .btn { 
+    background-color: transparent;
+    border: 2px solid black;
+    width: 20%;
+    border-radius: 100px;
+    margin-left: 280px;
+    margin-top: 40px;
+    font-size: 18px;
+    color: black;
+    text-align: left;
+}
+
+.jumbotron img { 
+    height: 20px;
+    margin-left: 120px;
+}
+
+.jumbotron h1 { 
+    padding-top: 100px;
+    padding-left: 40px;
+    font-family: 'Aboreto', cursive;
+    font-weight: 500;
+}
+
+
+
+.jumbotron p { 
+    padding-left: 60px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.grid { 
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.grid img { 
+    height: 80%;
+}
